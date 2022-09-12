@@ -35,6 +35,6 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uysalcan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErenCankutUYSAL&theme=dark-smoky&border_radius=4.2)](https://git.io/streak-stats)
 
 
