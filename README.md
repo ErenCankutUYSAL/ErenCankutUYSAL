@@ -7,7 +7,9 @@
   <a href="https://forum.linux.web.tr/u/uysalcan/summary"><img src="https://linux.web.tr/wp-content/uploads/2022/03/ltt_logo_white.png"  width="80" /></a><br>
   <img src="https://komarev.com/ghpvc/?username=uysalcan&style=flat-square&color=blue" alt=""/>
 </div>
----
+
+------
+
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gilab"  alt="Gitlab" width="60" height="60"/>&nbsp;
