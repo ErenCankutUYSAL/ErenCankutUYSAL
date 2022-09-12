@@ -35,6 +35,6 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uysalcan&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uysalcan)](https://git.io/streak-stats)
 
 
