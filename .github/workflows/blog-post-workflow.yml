@@ -1,17 +1,15 @@
-name: Latest blog post workflow
+name: Update README
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
