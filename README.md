@@ -7,6 +7,10 @@
 
 ------------
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erencankutuysal" alt="erencankutuysal" /></a> </p>
+
+-----
+
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gilab"  alt="Gitlab" width="60" height="60"/>&nbsp;
@@ -34,8 +38,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErenCankutUYSAL&theme=dark-smoky&border_radius=4.2)](https://git.io/streak-stats)
 
----
-### Recent Activity :zap:
-<!--START_SECTION:activity-->
-  
-<!--END_SECTION:activity-->
+
