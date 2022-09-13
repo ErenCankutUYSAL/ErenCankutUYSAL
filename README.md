@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/eren-cankut-uysal-96573411a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-cankut-uysal-96573411a" height="30" width="40" /></a>
-   <a href="https://forum.linux.web.tr/u/uysalcan/summary"><img src="https://linux.web.tr/wp-content/uploads/2022/03/ltt_logo_white.png" style="color: black" width="80"  /></a></span><br>
+   <a href="https://medium.com/@uysal.mg24" target="blank"><img align="center" src="https://miro.medium.com/max/500/1*Ra88BZ-CSTovFS2ZSURBgg.png"  width="100" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
