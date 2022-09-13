@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" background="black">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
    <a href="https://www.linkedin.com/in/eren-cankut-uysal-96573411a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  width="80" /></a>
   <a href="https://forum.linux.web.tr/u/uysalcan/summary"><img src="https://linux.web.tr/wp-content/uploads/2022/03/ltt_logo_white.png"  width="80" /></a><br>
