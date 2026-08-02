@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Cankut UYSAL</h1>
 
 <p align="center">
-  <strong>Senior Linux System Administrator · DevOps · Cloud & Infrastructure Automation</strong>
+  <strong>Linux · DevOps · Cloud & Infrastructure Automation</strong>
 </p>
 
 <p align="center">
@@ -23,109 +23,89 @@
 
 ## About me
 
-I design, automate and operate reliable Linux-based platforms across enterprise infrastructure, cloud environments and container platforms.
+I build reliable Linux-based platforms and automate the path from infrastructure change to secure, observable service delivery.
 
-My experience spans infrastructure as code, server lifecycle management, high availability, observability, security operations, virtualization, CI/CD and operational tooling. I focus on creating repeatable systems that are easier to deploy, monitor, secure and maintain.
-
-- Senior Linux System Administrator at Digiturk
-- Based in Istanbul, Türkiye
-- Strong focus on Linux/Unix administration, AWS, Terraform, Kubernetes and automation
-- Interested in platform engineering, SRE practices, resilient infrastructure and secure operations
+My focus areas include infrastructure as code, cloud platforms, containerization, high availability, observability, security operations and practical automation. I enjoy turning repetitive operational work into versioned, testable and repeatable workflows.
 
 ## Core expertise
 
-- **Cloud & IaC:** AWS, Terraform, EC2, IAM, VPC, S3, Hyper-V and automated resource provisioning
-- **Linux & Unix:** RHEL 7/8/9, CentOS, Ubuntu, Solaris SPARC/LDOM and NixOS
+- **Cloud & IaC:** AWS, Terraform, EC2, IAM, VPC, S3 and automated resource provisioning
+- **Linux & Unix:** RHEL, CentOS, Ubuntu, Solaris SPARC/LDOM and NixOS
 - **Containers & platforms:** Docker, Docker Compose, Kubernetes, OpenShift and KubeVirt
-- **Automation:** Bash, Python, PowerShell, Ansible, ArgoCD and Jira REST API integrations
-- **Networking & HA:** HAProxy, Nginx, VLANs, phpIPAM, Device42, iptables and load-balancing operations
-- **Observability & security:** Zabbix, Prometheus, Grafana, Elastic Stack, Graylog, Logsign, Nessus and Lynis
+- **Automation:** Bash, Python, PowerShell, Ansible, Argo CD and REST API integrations
+- **Networking & HA:** HAProxy, Nginx, VLANs, phpIPAM, Device42 and iptables
+- **Observability & security:** Zabbix, Prometheus, Grafana, Elastic Stack, Graylog, SIEM and vulnerability assessment
 - **Delivery & repositories:** Jenkins, GitLab CI/CD, Maven, Sonatype Nexus and GitBook
 - **Data & operations:** ClickHouse, LVM, NFS, Samba, rsync, lsyncd and scheduled Linux operations
 
-## Professional experience
-
-### Senior Linux System Administrator · Digiturk
-**Jan 2025 – Present**
-
-- Designed AWS infrastructure automation with Terraform, covering VPC and subnet planning, EC2 provisioning, server configuration, agent installation, resource tagging and technical reporting.
-- Designed an advanced Terraform and Jira REST API architecture for automated Linux and Windows VM provisioning on Hyper-V clusters.
-- Automated dynamic resource allocation, network and VLAN configuration, Domain Join and update operations using Posh-SSH and PowerShell Direct.
-- Added real-time Jira reporting to infrastructure provisioning workflows.
-
-### Linux System Administrator · Digiturk
-**Jan 2023 – Jan 2025**
-
-- Installed and integrated Zabbix Server 7.2 with Zabbix Agent and Agent2.
-- Administered Trend Micro, Tripwire, NetBackup and ManageEngine Endpoint Central for agent, package, update and reporting operations.
-- Installed, configured, hardened and performance-tuned RHEL 7/8/9 and Solaris SPARC/LDOM systems.
-- Administered HAProxy, phpIPAM and Device42 network tooling.
-- Managed OpenShift and KubeVirt environments, including node operations and capacity planning.
-- Managed Kubernetes platforms and CI/CD integrations using Ansible and ArgoCD.
-- Operated Red Hat Satellite and Foreman for repository management, OS updates and firmware upgrades.
-- Developed Bash and Python automation for recurring operational processes.
-
-### Linux System Engineer · Logsign
-**Apr 2022 – Jan 2023**
-
-- Conducted TCP and UDP stress testing with Nmap and Netcat.
-- Administered Elasticsearch, Kibana, Grafana and ClickHouse environments.
-- Managed LVM operations, Proxmox and VMware ESXi virtualization platforms.
-- Configured Palo Alto integrations and TLS settings.
-- Developed shell-based log generators and remote UDP log forwarding workflows.
-- Performed Linux security checks with Lynis, PAM hardening operations and Nessus vulnerability assessments.
-- Installed and operated Logsign SIEM and managed NixOS system configurations.
-
-### Linux System and DevOps Specialist · MTM – Medya Takip Merkezi
-**Dec 2019 – Apr 2022**
-
-- Installed and operated Graylog, Nxlog, Elasticsearch, Kibana, Security Onion, Zabbix, Netdata and Ansible.
-- Managed Apache Tomcat, Nginx, Java and Linux application platforms.
-- Automated WAR deployments with Jenkins and transformed legacy WAR applications into containerized JAR services using Maven and Docker.
-- Built GitLab CI/CD and Jenkins workflows, including automated GitBook documentation updates.
-- Containerized applications with Docker Compose and isolated networks.
-- Managed Sonatype Nexus, Samba, NFS, rsync, lsyncd, cron and iptables-based operational workflows.
-- Administered CentOS 7/8/9 and Ubuntu 18.04/20.04 environments.
-
-### Technical Project Staff · Kod-A Bilişim
-**Jul 2018 – Dec 2019**
-
-- Led QA and UAT processes for C# applications before production delivery.
-- Prepared functional and UX test scenarios, bug reports and actionable system analysis for development teams.
-
-### Intern · Zorlu Tekstil
-**Jul 2017 – Aug 2017**
-
-- Collaborated on a C# reporting automation for inbound/outbound material tracking and inventory management.
-
 ## Technology stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,openshift,linux,bash&perline=8" alt="Cloud, infrastructure and operating systems" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,python,javascript,html,css,java,cs,git&perline=8" alt="Programming and automation languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,grafana,prometheus,elasticsearch,kibana,kafka,mongodb,mysql&perline=8" alt="Delivery, observability and data tools" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,gitlab,github,jira,nginx,postman&perline=8" alt="Supporting tools" />
-</p>
+### Cloud, infrastructure & operating systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
-  <img src="https://img.shields.io/badge/HAProxy-2B2B2B?style=flat-square&logo=haproxy&logoColor=white" alt="HAProxy" />
-  <img src="https://img.shields.io/badge/KubeVirt-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="KubeVirt" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog" />
-  <img src="https://img.shields.io/badge/Logsign-1B1C30?style=flat-square&logo=datadog&logoColor=white" alt="Logsign" />
-  <img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square&logo=tenable&logoColor=white" alt="Nessus" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
-  <img src="https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Sonatype Nexus" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/Netcat-2B2B2B?style=flat-square&logo=gnu-bash&logoColor=white" alt="Netcat" />
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" /></a>
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" /></a>
+  <a href="https://docs.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="Kubernetes" /></a>
+  <a href="https://www.openshift.com/"><img src="https://skillicons.dev/icons?i=openshift" height="42" alt="OpenShift" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash" /></a>
+</p>
+
+### Languages & development
+
+<p align="center">
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="42" alt="PowerShell" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" height="42" alt="C Sharp" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /></a>
+</p>
+
+### DevOps, observability & delivery
+
+<p align="center">
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" height="42" alt="Jenkins" /></a>
+  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" height="42" alt="Grafana" /></a>
+  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" height="42" alt="Prometheus" /></a>
+  <a href="https://www.elastic.co/"><img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" /></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://skillicons.dev/icons?i=kibana" height="42" alt="Kibana" /></a>
+  <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Apache Kafka" /></a>
+  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="GitLab" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
+</p>
+
+### Databases, networking & collaboration
+
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" /></a>
+  <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" height="42" alt="Jira" /></a>
+</p>
+
+## Specialized tools
+
+<p align="center">
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Enterprise Linux" /></a>
+  <a href="https://www.haproxy.org/"><img src="https://img.shields.io/badge/HAProxy-2B2B2B?style=flat-square&logo=haproxy&logoColor=white" alt="HAProxy" /></a>
+  <a href="https://kubevirt.io/"><img src="https://img.shields.io/badge/KubeVirt-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="KubeVirt" /></a>
+  <a href="https://argo-cd.readthedocs.io/"><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" /></a>
+  <a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" /></a>
+  <a href="https://graylog.org/"><img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog" /></a>
+  <a href="https://www.logsign.com/"><img src="https://img.shields.io/badge/Logsign%20SIEM-1B1C30?style=flat-square&logoColor=white" alt="Logsign SIEM" /></a>
+  <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square&logo=tenable&logoColor=white" alt="Nessus" /></a>
+  <a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" /></a>
+  <a href="https://www.sonatype.com/products/sonatype-nexus-repository"><img src="https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Sonatype Nexus Repository" /></a>
+  <a href="https://clickhouse.com/docs"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" /></a>
+  <a href="https://man.openbsd.org/nc"><img src="https://img.shields.io/badge/Netcat-2B2B2B?style=flat-square&logo=gnu-bash&logoColor=white" alt="Netcat" /></a>
 </p>
 
 ## Selected public work
