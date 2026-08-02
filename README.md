@@ -128,8 +128,8 @@ My focus areas include infrastructure as code, cloud platforms, containerization
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenCankutUYSAL&show_icons=true&hide_border=true&theme=tokyonight&rank=SECRET,SS,S,A" alt="Eren's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCankutUYSAL&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErenCankutUYSAL&show_icons=true&hide_border=true&theme=tokyonight&rank=SECRET,SS,S,A" alt="Eren's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErenCankutUYSAL&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
