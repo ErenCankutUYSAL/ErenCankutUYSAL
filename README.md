@@ -11,9 +11,6 @@
   <a href="https://github.com/ErenCankutUYSAL">
     <img src="https://img.shields.io/badge/GitHub-ErenCankutUYSAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://medium.com/@erencuysal">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
 </p>
 
 <p align="center">
@@ -119,11 +116,6 @@ My focus areas include infrastructure as code, cloud platforms, containerization
 | [Log-Generator](https://github.com/ErenCankutUYSAL/Log-Generator) | FortiGate sample log generation and delivery utilities |
 | [Youtube-Recorder](https://github.com/ErenCankutUYSAL/Youtube-Recorder) | Shell automation around yt-dlp and recording workflows |
 | [youtube-video-player](https://github.com/ErenCankutUYSAL/youtube-video-player) | JavaScript web application with a responsive channel player |
-
-## Writing and knowledge sharing
-
-- [Advanced Network Automation for Global Load Balancing](https://medium.com/@eren.c.uysal/advanced-network-automation-for-global-load-balancing-379313ef5e77)
-- [Linux Security Cookbook](https://medium.com/@erencuysal/linux-security-cookbook-d213886e921b)
 
 ## GitHub activity
 
